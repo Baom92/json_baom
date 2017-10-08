@@ -1,0 +1,40 @@
+{
+	"id": 1,
+	"nom": "Indicateur",
+	"indic_quantitatifs": [
+	{
+	"id": 1,
+	"nom": "Quantité",
+	"propriete": "quantité du matériel",
+	"valeur": 15,
+,
+
+},
+	{
+	"id": 1,
+	"nom": "Poids",
+	"propriete": "poids en tonne",
+	"valeur": 34,
+,
+
+}
+	],
+	"indic_quantitatifs": [
+	{
+	"id": 1,
+	"nom": "Résistance",
+	"propriete": "résistance à la chaleur",
+	"valeur": 2,
+,
+
+},
+	{
+	"id": 2,
+	"nom": "Ductulité",
+	"propriete": "résistance au choc",
+	"valeur": 3,
+,
+
+}
+	]
+}

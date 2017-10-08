@@ -1,0 +1,53 @@
+{
+	"id": 1,
+	"nom": "ABOK",
+	"oblectif": "Routes Abomey-Bohicon-Kétou",
+	"projets": [
+		{
+			"id": 1,
+			"nom": "Routes",
+			"objectif": "Constructions de routes"
+		},
+		{
+			"id": 2,
+			"nom": "Ecoles",
+			"objectif": "Constructions de modules de classe"
+		}
+	],
+	"indicateurPerformance": {
+		"id": 1,
+		"nom": "IndicateurPerformance",
+	},
+	"beneficiaires": [
+		{
+			"id": 1,
+			"nom": "Bello",
+		}
+		{
+			"id": 2,
+			"nom": "Adam",
+		},
+	],
+	"bailleurs": [
+		{
+			"id": 1,
+			"nom": "Fatouma",
+			"typeDeBailleur": "NON_GOUVERNEMENTALE",
+		}
+		{
+			"id": 2,
+			"nom": "Chido",
+			"typeDeBailleur": "PRIVE",
+		},
+	],
+	"fournisseurs": [
+		{
+			"id": 1,
+			"nom": "Toundé",
+		}
+		{
+			"id": 2,
+			"nom": "Chakirou",
+		},
+	]
+}

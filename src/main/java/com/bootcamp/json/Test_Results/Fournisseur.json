@@ -1,0 +1,28 @@
+{
+	"id": 1,
+	"nom": "Dupont",
+	"projets": [
+		{
+			"id": 1,
+			"nom": "Routes",
+			"objectif": "Constructions de routes"
+		},
+		{
+			"id": 2,
+			"nom": "Ecoles",
+			"objectif": "Constructions de modules de classe"
+		}
+	],
+	"programmes": [
+		{
+			"id": 1,
+			"nom": "ABOK",
+			"objectif": "Routes Abomey-Bohicon-Kétou"
+		}
+		{
+			"id": 2,
+			"nom": "KI",
+			"objectif": "Routes Kétou-Ilara"
+		},
+	]
+}
